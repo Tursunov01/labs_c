@@ -1,0 +1,11 @@
+input ¹1:  1 9 15 3 16
+output ¹1: 15 3
+
+input ¹2: 9 16 25 36
+output ¹2:  All elements are full square
+
+input ¹3: -25 36 11 -9
+output ¹3:  -25 11 -9
+
+input ¹4: 77 9 -111 6
+output ¹4: 9

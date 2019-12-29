@@ -1,0 +1,11 @@
+Input elements: 0 0 3 0 0 4 
+Output elements: 1
+
+Input elements: 0 0 12 0 6 2
+Output elements: 2
+
+Input elements: 0 0 4 0 2 4
+Output elements: 2
+
+Input elements: 8 0 0 6 0 0
+Output elements: 1

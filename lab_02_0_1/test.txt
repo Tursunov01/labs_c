@@ -1,0 +1,14 @@
+Input elements: 5 2
+Output elements: 25
+
+Input elements: 6 4
+Output elements: 1296
+
+Input elements: 25 25
+Output elements: 1296002393
+
+Input elements: -4 9
+Output elements: -262144
+
+Input elements: -9 6
+Output elements: 531441

@@ -1,0 +1,11 @@
+Input elements: 15 1e-11
+Output elements: 3269017.000000, 3269017.250000, 0.250000, 0.000000
+
+Input elements: 1 1e-3
+Output elements: 2.718254, 2.718282,  0.000028, 0.000010
+
+Input elements: 5 1e-9
+Output elements: 148.413162, 148.413162,  0.000000, 0.632121
+
+Input elements: -5 1e-9
+Output elements: 0.006737, 0.006738,  0.000001, 0.000119

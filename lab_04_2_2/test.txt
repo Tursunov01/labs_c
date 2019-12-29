@@ -1,0 +1,11 @@
+input ¹1:  15
+output ¹1: There is no number which starts and ends with same number
+
+input ¹2: 2 -161 5 -43
+output ¹2:  -161
+
+input ¹3: 434 1 79 25 633636
+output ¹3: 434 633636
+
+input ¹4: 77 9 -111 6
+output ¹4: 77 -111

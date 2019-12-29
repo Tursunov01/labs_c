@@ -1,0 +1,12 @@
+input ¹1:  1 3 -9 5 4
+output ¹1: -9.00000
+
+input ¹2: 2 -16 0 -4
+output ¹2:  -20.00000
+
+input ¹3: -1 -8 -9 -6
+output ¹3: -24.00000
+
+input ¹4: 7 9 1 0
+output ¹4: There is no elements less than zero
+
